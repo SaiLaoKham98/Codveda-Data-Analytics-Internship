@@ -40,7 +40,7 @@ Throughout the internship, I applied Python, Pandas, Matplotlib, Seaborn, scikit
 
 ### Task 2: Iris Exploratory Data Analysis
 
-**File:** `01_level_task_projects/Level1_Task2_Iris_EDA.ipynb`
+**File:** [Level1_Task2_Iris_EDA.ipynb](01_level_task_projects/Level1_Task2_Iris_EDA.ipynb)
 
 #### Objective
 
@@ -70,7 +70,7 @@ Perform exploratory data analysis on the Iris dataset to understand the dataset 
 
 ### Task 3: Apple Stock Data Visualization
 
-**File:** `01_level_task_projects/Level1_Task3_Stock_Data_Visualization.ipynb`
+**File:** [Level1_Task3_Stock_Data_Visualization.ipynb](01_level_task_projects/Level1_Task3_Stock_Data_Visualization.ipynb)
 
 #### Objective
 
@@ -101,7 +101,7 @@ Visualize Apple historical stock-price data and identify trends, yearly differen
 
 ### Task 1: House Price Regression Analysis
 
-**File:** `02_level_task_projects/Level2_Task1_Regression_Analysis.ipynb`
+**File:** [Level2_Task1_Regression_Analysis.ipynb](02_level_task_projects/Level2_Task1_Regression_Analysis.ipynb)
 
 #### Objective
 
@@ -148,7 +148,7 @@ Build a simple linear regression model to examine the relationship between the a
 
 ### Task 3: Iris K-Means Clustering
 
-**File:** `02_level_task_projects/Level2_Task3_KMeans_Clustering.ipynb`
+**File:** [Level2_Task3_KMeans_Clustering.ipynb](02_level_task_projects/Level2_Task3_KMeans_Clustering.ipynb)
 
 #### Objective
 
@@ -192,7 +192,7 @@ The elbow method was used to determine the appropriate number of clusters, and *
 
 ### Task 1: Customer Churn Classification
 
-**File:** `03_level_task_projects/Level3_Task1_Churn_Classification.ipynb`
+**File:** [Level3_Task1_Churn_Classification.ipynb](03_level_task_projects/Level3_Task1_Churn_Classification.ipynb)
 
 #### Objective
 
@@ -258,7 +258,7 @@ The Tuned Decision Tree was selected because it provided the strongest overall b
 
 ### Task 2: Customer Churn Power BI Dashboard
 
-**File:** `03_level_task_projects/Level3_Task2_Build_BI_Dashboard.pbix`
+**File:** [Level3_Task2_Build_BI_Dashboard.pbix](03_level_task_projects/Level3_Task2_Build_BI_Dashboard.pbix)
 
 #### Objective
 
